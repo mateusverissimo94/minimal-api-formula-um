@@ -35,8 +35,10 @@ Para manter o foco na agilidade das rotas e na validação de tipos, **esta API 
 
 Certifique-se de ter instalado em sua máquina:
 
-- [Node.js](https://nodejs.org/) (Versão 18 LTS ou superior recomendada)
+- [Node.js](https://nodejs.org/) (Versão 24.17.0 LTS ou superior recomendada)
 - Um gerenciador de pacotes (`npm` ou `yarn`)
+- [Fastify](https://fastify.dev/)
+- [Fastify/cors](https://github.com/fastify/fastify-cors)
 
 ### 1. Clonar o Repositório e Instalar as Dependências
 
