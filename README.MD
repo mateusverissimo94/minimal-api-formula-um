@@ -1,4 +1,3 @@
-````markdown
 # 🏁 F1 API — Fastify & TypeScript
 
 Uma API RESTful compacta, performática e elegantemente tipada, desenvolvida em **Node.js** utilizando o framework **Fastify** e **TypeScript** para gerenciar escuderias e pilotos do universo da Fórmula 1.
@@ -50,5 +49,3 @@ cd nome-do-repositorio
 
 # Instale os pacotes necessários
 npm install
-```
-````
