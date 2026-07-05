@@ -44,10 +44,10 @@ Certifique-se de ter instalado em sua máquina:
 
 ```bash
 # Clone o projeto
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone https://github.com/mateusverissimo94/minimal-api-formula-um.git
 
 # Acesse a pasta do projeto
-cd nome-do-repositorio
+cd minimal-api-formula-um
 
 # Instale os pacotes necessários
 npm install
