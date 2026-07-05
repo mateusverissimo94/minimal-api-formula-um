@@ -46,4 +46,11 @@ git clone [https://github.com/mateusverissimo94/minimal-api-formula-um.git](http
 
 # Acesse a pasta do projeto
 cd nome-do-repositorio
+
+# Instale os pacotes necessários
+npm install
+```
+
+```
+
 ```
