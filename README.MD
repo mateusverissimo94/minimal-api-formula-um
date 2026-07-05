@@ -1,4 +1,3 @@
-````markdown
 # 🏁 F1 API — Fastify & TypeScript
 
 Uma API RESTful compacta, performática e elegantemente tipada, desenvolvida em **Node.js** utilizando o framework **Fastify** e **TypeScript** para gerenciar escuderias e pilotos do universo da Fórmula 1.
@@ -43,12 +42,8 @@ Certifique-se de ter instalado em sua máquina:
 
 ```bash
 # Clone o projeto
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+git clone [https://github.com/mateusverissimo94/minimal-api-formula-um.git](https://github.com/mateusverissimo94/minimal-api-formula-um.git)
 
 # Acesse a pasta do projeto
 cd nome-do-repositorio
-
-# Instale os pacotes necessários
-npm install
 ```
-````
